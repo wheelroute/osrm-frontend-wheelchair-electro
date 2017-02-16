@@ -38,7 +38,7 @@ module.exports = {
   },
   services: [{
     label: 'Wheelchair electro',
-    path: 'http://gitlab.wheelroute.at:5001/route/v1'
+    path: 'http://route2.wheelroute.at:5001/route/v1'
   }],
   layer: [{
     'openstreetmap.org': osm,
